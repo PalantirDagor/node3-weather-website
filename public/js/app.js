@@ -1,5 +1,6 @@
 console.log('client side javascript file is loaded!')
 
+//new comment
 const weaderForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
